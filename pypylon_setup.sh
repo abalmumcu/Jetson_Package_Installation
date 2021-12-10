@@ -2,6 +2,8 @@
 
 echo "pypylon installation"
 
+pip3 install gdown
+
 python3 gdownload.py
 
 mkdir pypylon_installer
