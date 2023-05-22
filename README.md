@@ -73,6 +73,3 @@ To install and set up the project, follow these steps:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
-
-As for the project name, please provide some information or context about your project, and I can suggest a suitable name based on that.
